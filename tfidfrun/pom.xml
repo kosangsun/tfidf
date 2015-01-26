@@ -50,7 +50,7 @@
                     <archive>
                         <manifest>
                         <!-- 메인이 있는 클래스의 클래스명을 알려준다. -->
-                            <mainClass>WordsInCorpusTFIDF.WordsInCorpusTFIDF</mainClass>
+                            <mainClass>com.example.TFIDF.tfidfrun.WordsInCorpusTFIDF</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
